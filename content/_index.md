@@ -120,8 +120,8 @@ sections:
         - statistic: "20+"
           description: "Talks, presentations, and academic engagements"
           icon: hero/microphone
-        - statistic: "14+"
-          description: "Journals served as peer-reviwer (Elsevier)"
+        - statistic: "15+"
+          description: "Journal papers served as peer-reviewer (Elsevier)"
           icon: hero/globe-alt
     design:
       layout: cards
